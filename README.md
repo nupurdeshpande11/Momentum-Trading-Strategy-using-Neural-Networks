@@ -1,4 +1,4 @@
-# Momentum-Trading-Strategy-using-Neural-
+# Momentum-Trading-Strategy-using-Neural-Networks
 ## Implemented momentum trading strategy using neural networks
 ## The momentum trading strategy I used calculated simple moving avaerages and a time window for the stock price
 ## Data was sampled and identified with the help of Tickers and feature extraction was done
